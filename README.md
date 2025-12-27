@@ -4,7 +4,7 @@ This project is quite important to me as it is my first major( or minor) impleme
 It serves as one of the foundational  stepping stones in my ai journey.
 # NanoGPT: Character-Level Transformer
 
-A minimal, from-scratch implementation of a **Decoder-only Transformer** (GPT-style) for character-level text generation. This project is inspired by Andrej Karpathy's "Let's build GPT" tutorial and serves as an educational deep dive into the architecture that powers modern LLMs.
+A minimal, from-scratch implementation of a **Decoder-only Transformer** (GPT-style) for character-level text generation. This project is inspired by Andrej Karpathy's gpt walk through and serves as an educational deep dive into the architecture that powers modern LLMs.
 
 ##  Overview
 This model is trained on the **Tiny Shakespeare** dataset. Instead of predicting words, it operates at the character level, learning to associate patterns of letters, punctuation, and whitespace to generate text that mimics the style of Elizabethan drama.
